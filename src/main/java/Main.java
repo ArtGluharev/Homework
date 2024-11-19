@@ -1,3 +1,3 @@
 public class Main {
-    // It's hotfix origin
+    // It's main origin
 }
